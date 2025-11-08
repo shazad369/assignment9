@@ -6,9 +6,9 @@ const Plantchildlayout = () => {
         <div>
                 <div style={{ textAlign: "center", marginTop: "10px" }}>
       <motion.h1
-        initial={{ opacity: 0, y: 50 }}   // starting position
-        animate={{ opacity: 1, y: 0 }}     // final position
-        transition={{ duration: 1.2, ease: "easeOut" }}  // smooth timing
+        initial={{ opacity: 0, y: 50 }}   
+        animate={{ opacity: 1, y: 0 }}     
+        transition={{ duration: 1.2, ease: "easeOut" }}  
         style={{
           fontSize: "3rem",
           color: "#2e7d32",
