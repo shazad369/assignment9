@@ -1,0 +1,105 @@
+[
+  {
+    "plantId": 1,
+    "plantName": "Snake Plant",
+    "category": "Air Purifier",
+    "price": 18,
+    "rating": 4.8,
+    "availableStock": 10,
+    "careLevel": "Easy",
+    "description": "A hardy plant that purifies indoor air and thrives in low light.",
+    "image": "https://imgs.search.brave.com/OuQN-w5iKrBqdeCBQ0r7raYq7INM6i5nhkMpeZ9W7is/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMjE1/Nzg4NDc0Ny9waG90/by9zbmFrZS1wbGFu/dC1pbi1mdWxsLWdy/b3d0aC1pbi1hLWZs/b3dlci1wb3Qtb24t/YS1wb3JjaC5qcGc_/cz02MTJ4NjEyJnc9/MCZrPTIwJmM9eXBN/OS0xaldZMTNUNEU4/RGJvaFNKb1pqYXVY/SlNxT1FHY1AwRC1Y/QU94cz0",
+    "providerName": "UrbanGreen Studio",
+    "careTips": [
+      "Water once every 1–2 weeks; allow soil to dry between watering.",
+      "Place in indirect or low light areas.",
+      "Wipe leaves regularly to remove dust for better air purification."
+    ]
+  },
+  {
+    "plantId": 2,
+    "plantName": "ZZ Plant",
+    "category": "Low Light",
+    "price": 22,
+    "plantquallity": "Top Rated Indoor Plants:",
+    "rating": 4.6,
+    "availableStock": 8,
+    "careLevel": "Easy",
+    "description": "Glossy leaves and drought-tolerant — perfect for busy or beginner plant parents.",
+    "image": "https://imgs.search.brave.com/UhM6GxDgLKGhP99YAhynOz_nDI_6KjWp1O9SQf12C5o/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9ncmVl/bi16ei1wbGFudC1s/ZWF2ZXMtcGhvdG9n/cmFwaHktemFtaW9j/dWxjYXMtemFuemli/YXItZ2VtLXp6LXBs/YW50LXp1enUtcGxh/bnQtZ3Jvd24tbnVy/c2VyeS1ncmVlbi16/ei1wbGFudC1sZWF2/ZXMtcGxhbnQtMjY0/MjAwNzM2LmpwZw",
+    "providerName": "GreenHouse Co.",
+    "careTips": [
+      "Water lightly every 2 weeks.",
+      "Avoid direct sunlight — thrives in low light corners.",
+      "Use well-draining soil to prevent root rot."
+    ]
+  },
+  {
+    "plantId": 3,
+    "plantName": "Fiddle Leaf Fig",
+    "category": "Statement Plant",
+    "price": 45,
+    "rating": 4.2,
+    "availableStock": 5,
+    "careLevel": "Medium",
+    "description": "Large violin-shaped leaves give a bold, decorative look — needs bright indirect light.",
+    "image": "https://imgs.search.brave.com/3Zy_9QLMBkuWrsDKxA-6lCjtge-upzouaCG11NC61xo/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTA4/NjU5NDI4Mi9waG90/by9maWRkbGUtbGVh/Zi1maWctdHJlZS13/aXRoLWxpZ2h0aW5n/LWFuZC1zaGFkb3cu/anBnP3M9NjEyeDYx/MiZ3PTAmaz0yMCZj/PTUyUDlqaWcyY0ZU/UjJUQVhPcGZOY2JX/VDVwVlYzNzN4dXp1/XzY4cnpmdzA9",
+    "providerName": "Studio Flora",
+    "careTips": [
+      "Needs bright, indirect light for best growth.",
+      "Water when top inch of soil feels dry.",
+      "Rotate the pot weekly for even leaf growth."
+    ]
+  },
+  {
+    "plantId": 4,
+    "plantName": "Pothos (Golden)",
+    "category": "Trailing",
+    "price": 12,
+    "rating": 4.7,
+    "availableStock": 20,
+    "careLevel": "Easy",
+    "description": "Fast-growing trailing vine with variegated leaves — great for shelves and hanging baskets.",
+    "image": "https://imgs.search.brave.com/XNr348NZCgzptPy08F58S77m3uWdZ4oUsEV9LTMo5F0/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/ZnJlZS1waG90by9n/b2xkZW4tcG90aG9z/LWVwaXByZW1udW0t/YXVyZXVtLXdoaXRl/LXRhYmxlLWxpdmlu/Zy1yb29tLWhvbWUt/Z2FyZGVuXzExNDU3/OS0xMzkxLmpwZz9z/ZW10PWFpc19oeWJy/aWQmdz03NDAmcT04/MA",
+    "providerName": "Leaf & Light",
+    "careTips": [
+      "Allow topsoil to dry out between watering.",
+      "Ideal for hanging baskets or shelves.",
+      "Prune stems to maintain shape and encourage new growth."
+    ]
+  },
+  {
+    "plantId": 5,
+    "plantName": "Peace Lily",
+    "category": "Flowering",
+    "price": 28,
+    "rating": 4.5,
+    "availableStock": 7,
+    "careLevel": "Medium",
+    "description": "Elegant white blooms and glossy leaves — prefers moderate light and regular watering.",
+    "image": "https://imgs.search.brave.com/4-bTKJKem6_JCe_8nH59K3um-z_SvTZ8nGCsSWrYTjc/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9oaXBz/LmhlYXJzdGFwcHMu/Y29tL2htZy1wcm9k/L2ltYWdlcy9wZWFj/ZS1saWx5LXNwYXRo/aXBoeWxsdW0tcm95/YWx0eS1mcmVlLWlt/YWdlLTE3MjA0Njcx/NjMuanBnP2Nyb3A9/MC45OTk1M3h3OjF4/aDtjZW50ZXIsdG9w/JnJlc2l6ZT05ODA6/Kg",
+    "providerName": "Bloom & Root",
+    "careTips": [
+      "Keep soil consistently moist but not soggy.",
+      "Bright, indirect light helps more blooms.",
+      "Fertilize monthly during spring and summer."
+    ]
+  },
+  {
+    "plantId": 6,
+    "plantName": "Spider Plant",
+    "category": "Air Purifier",
+    "price": 14,
+    "rating": 4.4,
+    "availableStock": 15,
+    "careLevel": "Easy",
+    "description": "Classic easy-care plant with arching leaves and baby plantlets — tolerant of many conditions.",
+    "image": "https://imgs.search.brave.com/C6AjVcJwRBLq86BQQKXozHFSLXQ7Zfv1RjnB48yTl7Q/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/c2h1dHRlcnN0b2Nr/LmNvbS9pbWFnZS1w/aG90by9jbG9zZS1n/cmVlbi1zcGlkZXIt/cGxhbnQtY2hsb3Jv/cGh5dHVtLTI2MG53/LTIzODE2MzY5MTEu/anBn",
+    "providerName": "HomeSprout",
+    "careTips": [
+      "Water every 1–2 weeks; keep soil slightly moist.",
+      "Tolerates low to bright indirect light.",
+      "Trim brown tips to keep leaves healthy."
+    ]
+  }
+]

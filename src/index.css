@@ -1,0 +1,9 @@
+.active {
+  color: red;
+}
+ a.active {
+  color: red;
+}
+a.btn.btn-primary.active {
+  color: red;
+}
